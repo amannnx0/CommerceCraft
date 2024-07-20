@@ -52,6 +52,11 @@ Start the server
 * [Fake Store API](https://fakestoreapi.com/)
 
 
+#react 
+#reactjs 
+#redux
+#frondend
+
 
 
 
